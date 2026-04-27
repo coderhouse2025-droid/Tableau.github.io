@@ -1,4 +1,4 @@
-Portafolio de Business Intelligence & Storytelling
+📈Portafolio de Business Intelligence & Storytelling
 
 Este repositorio funciona como punto de acceso a mi portfolio de visualizaciones interactivas en Tableau, donde presento proyectos orientados al análisis de datos, auditoría pública, visualización estadística y diseño de tableros.
 El sitio está publicado mediante GitHub Pages y redirige a mis trabajos desarrollados en Tableau Public.
