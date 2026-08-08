@@ -26,3 +26,8 @@ El sitio está disponible a través de GitHub Pages:
 
 📬 Contacto
 Juan Manuel Orellana Analista de Datos – Buenos Aires, Argentina LinkedIn | Tableau Public | GitHub
+
+---
+## 📄 Licencia
+
+Este proyecto está bajo la [Licencia MIT](LICENSE) — libre para uso como referencia, aprendizaje o desarrollo de proyectos propios.
